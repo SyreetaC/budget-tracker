@@ -2,7 +2,7 @@
 
 ## Description
 
-This budget tracker
+This budget tracker uses Progressive Web Application (PWA) and allows users to add expenses and deposits to their budget with both an online and offline connection. If the user enters transactions offline, data should populate the total when they are connected back online. This application is deployed on Heroku.
 
 ## Link to deployed application
 
@@ -31,6 +31,7 @@ This budget tracker
 - Express
 - Compression
 - Morgan
+- Lite-server
 
 ## Github Link
 
