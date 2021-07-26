@@ -40,3 +40,5 @@ https://stormy-reef-64473.herokuapp.com/
 https://github.com/SyreetaC
 
 ## Screenshots
+
+![screenshot1](<public/assets/images/Screenshot%20(47).png>)
